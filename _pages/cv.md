@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science & Engineering, Korea University, 2017
+* M.S. in Computer Science & Engineering, Korea University, 2019
+* Ph.D in Computer Science, Arizona State University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Spring 2021: Research Assistant
+  * Arizona State University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2021: Research Assistant
+  * Arizona State University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -42,17 +42,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2021: Teaching Assistant
+  * Arizona State University
+  * CSE 205
+  * Supervisor: Professor Hub
   
 Service and leadership
 ======
