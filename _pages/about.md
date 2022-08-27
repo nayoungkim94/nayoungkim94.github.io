@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year PhD student in School of Computing and Augmented Intelligence (SCAI), Arizona State University. I work as a research assistant at [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by Professor [Huan Liu](https://www.public.asu.edu/~huanliu/). Before that, I obtained my master and bachelor degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
+I am a second year PhD student in School of Computing and Augmented Intelligence (SCAI), Arizona State University. I work as a research assistant at [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by Professor [Huan Liu](https://www.public.asu.edu/~huanliu/). Before joining DMML, I obtained my master and bachelor degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do).
 My research interest generally lies in data mining and machine learning, especially in fairness and robustness in AI. Recently, I'm focusing on domain generalization and bias mitigation in various NLP systems.
 
-For more information, you can view my CV [here]().
+For more information, you can view my CV [here](../files/CV__2022_for_internship.pdf).
 
 News
 ======
@@ -31,25 +31,40 @@ Experiences
 ======
 * Spring 2021: Research Assistant
   * Arizona State University
-  * Duties included: 
-  * Supervisor: Professor Git
+  * Supervisor: Professor Sang Pil Han
 
-* Fall 2021: Research Assistant
+* Fall 2021 - Summer 2022: Research Assistant
   * Arizona State University
-  * Duties included: 
   * Supervisor: Professor Huan Liu
 
 * Fall 2021: Teaching Assistant
   * Arizona State University
-  * CSE 205
-  * Supervisor: Professor
+  * CSE 205: Object-Oriented Programming and Data Structures
+  * Supervisor: Professor Faye Tadayon-Navabi
+
+* Spring 2022: Teaching Assistant
+  * Arizona State University
+  * CSE 205: Object-Oriented Programming and Data Structures
+  * Supervisor: Professor Phill Miller 
 
 Services
 ======
 
 
-Honors & Scholarships
+Honors & Awards
 ======
+* Fulton Scholarships Jan 2021 - July 2021
+  * Ira A. Fulton Schools of Engineering, Arizona State University
+  * Part of tuition (3,000 USD for 1 semester) provided to qualified graduate students in the Ira A. Fulton Schools of Engineering
+* General Scholarships Aug 2017 - Feb 2018
+  * College of Information, Korea University
+  * Part of tuition (1,250,000 KRW for 1 semester) provided to master degree students in the College of Information
+* Work-Study Scholarships Mar 2015 - July 2015
+  * Korea University
+  * Third-tuition (1,694,000 KRW for 1 semester) provided to work-study students in the Department of Computer Science & Engineering, Korea University
+* Academic Excellence Scholarships Mar 2013 - July 2013
+  * College of Information & Communication, Korea University
+  * Full tuition (4,416,000 KRW for 1 semester) provided to top 6% freshmen in the College of Information & Communication
 
 
 Contact
