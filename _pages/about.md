@@ -70,5 +70,7 @@ For more information, you can view my **CV** [here](../files/CV__2022_for_intern
 **Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 561AC]
 
 **Email**: nkim48@asu.edu
-<!-- **Markdown generator** -->
+
+
+**Last updated: 09/03/22**
 
