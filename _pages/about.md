@@ -14,8 +14,8 @@ For more information, you can view my **CV** [here](../files/CV__2022_for_intern
 
 📰News
 ======
-- Our paper ==“Bias Mitigation for Toxicity Detection via Sequential Decisions”== is accepted in the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2022)
-- Our paper =="Debiasing Word Embeddings with Nonlinear Geometry"== is accepted in the Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)
+- Our paper “Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data” is accepted in the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2022)
+- Our paper "Debiasing Word Embeddings with Nonlinear Geometry" is accepted in COLING 2022
 
 🎓Education
 ======
@@ -25,7 +25,13 @@ For more information, you can view my **CV** [here](../files/CV__2022_for_intern
 
 🗒️Publication
 ======
+1. Debiasing Word Embeddings with Nonlinear Geometry [pdf](https://arxiv.org/pdf/2208.13899.pdf)
+Lu Cheng, Nayoung Kim, Huan Liu
+In the Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju. October 12-17, 2022.
 
+2. Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [pdf](https://arxiv.org/pdf/2208.03907.pdf)
+Nayoung Kim, Ahmadreza Mosallanezhad, Lu Cheng, Baoxin Li, Huan Li
+In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.
 
 🏛️Experiences
 ======
@@ -47,22 +53,21 @@ For more information, you can view my **CV** [here](../files/CV__2022_for_intern
 
 🏢Services
 ======
+Conference Reviewer
+* ECML-PKDD, ACM MultiMedia, ASONAM, AAAI 2022
+* ASONAM, IEEE CogMI 2021
+
+Volunteer
+* WSDM 2022
+* KDD 2021 
 
 
 🏆Honors & Awards
 ======
-* Fulton Scholarships Jan 2021 - July 2021
-  * Ira A. Fulton Schools of Engineering, Arizona State University
-  * Part of tuition provided to qualified graduate students in the Ira A. Fulton Schools of Engineering
-* General Scholarships Aug 2017 - Feb 2018
-  * College of Information, Korea University
-  * Part of tuition provided to master degree students in the College of Information
-* Work-Study Scholarships Mar 2015 - July 2015
-  * Korea University
-  * Third-tuition provided to work-study students in the Department of Computer Science & Engineering, Korea University
-* Academic Excellence Scholarships Mar 2013 - July 2013
-  * College of Information & Communication, Korea University
-  * Full tuition provided to top 6% freshmen in the College of Information & Communication
+* **Fulton Scholarships**, Ira A. Fulton Schools of Engineering, Arizona State University, 2021
+* **General Scholarships**, College of Information, Korea University, 2017-2018
+* **Work-Study Scholarships**, Korea University, 2015
+* **Academic Excellence Scholarships**, College of Information & Communication, Korea University, 2013
 
 
 ☎️Contact
