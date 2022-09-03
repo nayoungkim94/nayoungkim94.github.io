@@ -13,8 +13,8 @@ For more information, you can view my **CV** [here](../files/CV__2022_for_intern
 
 📰News
 ======
-- Our paper “Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data” is accepted in the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2022)
-- Our paper "Debiasing Word Embeddings with Nonlinear Geometry" is accepted in COLING 2022
+- Our paper “Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data” is accepted in SBP-BRiMS'22
+- Our paper "Debiasing Word Embeddings with Nonlinear Geometry" is accepted in COLING'22
 
 🎓Education
 ======
