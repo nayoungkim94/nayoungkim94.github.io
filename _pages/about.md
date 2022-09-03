@@ -24,11 +24,11 @@ For more information, you can view my **CV** [here](../files/CV__2022_for_intern
 
 🗒️Publication
 ======
-1. Debiasing Word Embeddings with Nonlinear Geometry [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] \
+1. **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] \
 Lu Cheng, Nayoung Kim, Huan Liu \
 In the Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju. October 12-17, 2022.
 
-2. Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [[pdf](https://arxiv.org/pdf/2208.03907.pdf)] \
+2. **Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data** [[pdf](https://arxiv.org/pdf/2208.03907.pdf)] \
 Nayoung Kim, Ahmadreza Mosallanezhad, Lu Cheng, Baoxin Li, Huan Li \
 In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.
 
@@ -38,7 +38,7 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
   * Arizona State University & Mathpresso
   * Supervisor: Professor Sang Pil Han
 
-* Fall 2021 - Summer 2022: Research Assistant
+* Fall 2021-Summer 2022: Research Assistant
   * Arizona State University
   * Supervisor: Professor Huan Liu
 
@@ -52,13 +52,13 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 🏢Services
 ======
-Conference Reviewer
-* ECML-PKDD, ACM MultiMedia, ASONAM, AAAI 2022
-* ASONAM, IEEE CogMI 2021
+* Conference Reviewer
+  * ECML-PKDD, ACM MultiMedia, ASONAM, AAAI 2022
+  * ASONAM, IEEE CogMI 2021
 
-Volunteer
-* WSDM 2022
-* KDD 2021 
+* Volunteer
+  * WSDM 2022
+  * KDD 2021 
 
 
 🏆Honors & Awards
@@ -71,7 +71,7 @@ Volunteer
 
 ☎️Contact
 ------
-**Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 561AC]
+**Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 561AC]\
 **Email**: nkim48@asu.edu
 
 
