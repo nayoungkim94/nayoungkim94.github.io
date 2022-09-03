@@ -72,7 +72,7 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 ☎️Contact
 ------
 **Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 561AC]\
-**Email**: nkim48@asu.edu
+**Email**: nkim48 at asu dot edu
 
 
 **Last updated: 09/03/22**
