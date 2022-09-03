@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a second year PhD student in School of Computing and Augmented Intelligence (SCAI), Arizona State University. I work as a research assistant at [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by Professor [Huan Liu](https://www.public.asu.edu/~huanliu/). Before joining DMML, I obtained my bachelor degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) and master degree from [Data Mining and Information Systems (DMIS) Lab](https://dmis.korea.ac.kr/home), Korea University.\
 My research interest generally lies in data mining and machine learning, especially in fairness and robustness in AI. Recently, I'm focusing on domain generalization and bias mitigation in various NLP systems.\
-For more information, you can view my **CV** [here](../files/CV__2022_for_internship.pdf).
+For more information, my **CV** is available [here](../files/CV__2022_for_internship.pdf).
 
 📰News
 ======
