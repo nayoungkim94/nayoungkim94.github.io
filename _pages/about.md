@@ -34,20 +34,16 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 🏛️Experiences
 ======
-* Spring 2021: Research Assistant
-  * Arizona State University & Mathpresso
+* Spring 2021: Research Assistant, Arizona State University & Mathpresso
   * Supervisor: Professor Sang Pil Han
 
-* Fall 2021-Summer 2022: Research Assistant
-  * Arizona State University
+* Fall 2021-Summer 2022: Research Assistant, Arizona State University
   * Supervisor: Professor Huan Liu
 
-* Fall 2021: Teaching Assistant
-  * Arizona State University
+* Fall 2021: Teaching Assistant, Arizona State University
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
 
-* Spring 2022: Teaching Assistant
-  * Arizona State University
+* Spring 2022: Teaching Assistant, Arizona State University
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phill Miller)
 
 🏢Services
