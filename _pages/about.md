@@ -7,10 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year PhD student in School of Computing and Augmented Intelligence (SCAI), Arizona State University. I work as a research assistant at [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by Professor [Huan Liu](https://www.public.asu.edu/~huanliu/). Before joining DMML, I obtained my bachelor degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) and master degree from [Data Mining and Information Systems (DMIS) Lab](https://dmis.korea.ac.kr/home), Korea University.
-
-My research interest generally lies in data mining and machine learning, especially in fairness and robustness in AI. Recently, I'm focusing on domain generalization and bias mitigation in various NLP systems.
-
+I am a second year PhD student in School of Computing and Augmented Intelligence (SCAI), Arizona State University. I work as a research assistant at [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by Professor [Huan Liu](https://www.public.asu.edu/~huanliu/). Before joining DMML, I obtained my bachelor degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) and master degree from [Data Mining and Information Systems (DMIS) Lab](https://dmis.korea.ac.kr/home), Korea University.\
+My research interest generally lies in data mining and machine learning, especially in fairness and robustness in AI. Recently, I'm focusing on domain generalization and bias mitigation in various NLP systems.\
 For more information, you can view my **CV** [here](../files/CV__2022_for_internship.pdf).
 
 📰News
@@ -26,11 +24,11 @@ For more information, you can view my **CV** [here](../files/CV__2022_for_intern
 
 🗒️Publication
 ======
-1. Debiasing Word Embeddings with Nonlinear Geometry [pdf](https://arxiv.org/pdf/2208.13899.pdf) \
+1. Debiasing Word Embeddings with Nonlinear Geometry [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] \
 Lu Cheng, Nayoung Kim, Huan Liu \
 In the Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju. October 12-17, 2022.
 
-2. Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [pdf](https://arxiv.org/pdf/2208.03907.pdf) \
+2. Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data [[pdf](https://arxiv.org/pdf/2208.03907.pdf)] \
 Nayoung Kim, Ahmadreza Mosallanezhad, Lu Cheng, Baoxin Li, Huan Li \
 In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.
 
