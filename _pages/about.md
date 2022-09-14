@@ -44,7 +44,7 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
 
 * Spring 2022: Teaching Assistant, Arizona State University
-  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phill Miller)
+  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phillip Miller)
 
 🏢Services
 ======
