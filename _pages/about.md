@@ -24,7 +24,7 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 
 🗒️Publication
 ======
-1. **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] \
+1. **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] [[code](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)]\
 Lu Cheng, **Nayoung Kim**, Huan Liu \
 In the Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju. October 12-17, 2022.
 
@@ -34,17 +34,20 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 🏛️Experiences
 ======
-* Spring 2021: Research Assistant, Arizona State University & Mathpresso
-  * Supervisor: Professor Sang Pil Han
+* Fall 2022-: Research Assistant, Arizona State University
+  * Supervisor: Professor Michelle Mancenido
 
 * Fall 2021-Summer 2022: Research Assistant, Arizona State University
   * Supervisor: Professor Huan Liu
 
-* Fall 2021: Teaching Assistant, Arizona State University
-  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
+* Spring 2021: Research Assistant, Arizona State University & Mathpresso
+  * Supervisor: Professor Sang Pil Han
 
 * Spring 2022: Teaching Assistant, Arizona State University
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phillip Miller)
+
+* Fall 2021: Teaching Assistant, Arizona State University
+  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
 
 🏢Services
 ======
@@ -60,6 +63,7 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 🏆Honors & Awards
 ======
+* **Conference Scholarship**, SBP-BRiMS, 2022
 * **Fulton Scholarships**, Ira A. Fulton Schools of Engineering, Arizona State University, 2021
 * **General Scholarships**, Korea University, 2017-2018
 * **Work-Study Scholarships**, Korea University, 2015
@@ -73,5 +77,5 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 
 ------
-**Last updated: 09/14/22**
+Last updated: 11/16/22
 
