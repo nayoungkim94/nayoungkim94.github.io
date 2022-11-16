@@ -28,7 +28,7 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 Lu Cheng, **Nayoung Kim**, Huan Liu \
 In the Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju. October 12-17, 2022.
 
-2. **Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data** [[pdf](https://arxiv.org/pdf/2208.03907.pdf)] \
+2. **Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data** [[pdf](https://arxiv.org/pdf/2208.03907.pdf)] [[code](https://github.com/nayoungkim94/Bridging-the-Gap)]\
 **Nayoung Kim**, Ahmadreza Mosallanezhad, Lu Cheng, Baoxin Li, Huan Liu \
 In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.
 
