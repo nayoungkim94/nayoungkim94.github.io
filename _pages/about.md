@@ -43,7 +43,7 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 🏛️ Experiences
 ======
-* Fall 2022-: Research Assistant, Department of Homeland Security (DHS-CAOE)
+* Fall 2022-Present: Research Assistant, Department of Homeland Security (DHS-CAOE)
   * Supervisor: Professor Michelle V. Mancenido
 
 * Fall 2021-Summer 2022: Research Assistant, Arizona State University
