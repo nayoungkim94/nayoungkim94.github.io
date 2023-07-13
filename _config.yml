@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nayoung Kim"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nayoung Kim"
 description              : &description "personal description"
