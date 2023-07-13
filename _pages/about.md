@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Nayoung Kim"
-excerpt: "About Me"
+# excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,7 @@ redirect_from:
 ---
 \
 \
-\
-👩‍💻About Me
+# 👩‍💻About Me
 ======
 I am a third year PhD student in School of Computing and Augmented Intelligence (SCAI), Arizona State University. Currently, I work as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) and master degree from [Data Mining and Information Systems (DMIS) Lab](https://dmis.korea.ac.kr/home), Korea University.\
 My research interest generally lies in data mining and machine learning, especially fairness and robustness in AI. Recently, I'm focusing on domain generalization and bias mitigation in various NLP systems.\
