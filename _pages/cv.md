@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science & Engineering, Korea University, 2017
-* M.S. in Computer Science & Engineering, Korea University, 2019
 * Ph.D in Computer Science, Arizona State University, 2025 (expected)
+* M.S. in Computer Science & Engineering, Korea University, 2019
+* B.S. in Computer Science & Engineering, Korea University, 2017
 
 Work experience
 ======
