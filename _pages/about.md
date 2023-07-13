@@ -10,7 +10,7 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-I am a third year PhD student in School of Computing and Augmented Intelligence (SCAI), Arizona State University. Currently, I work as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) and master degree from [Data Mining and Information Systems (DMIS) Lab](https://dmis.korea.ac.kr/home), Korea University.\
+Hi! I am a third year PhD student in [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University. Currently, I work as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) and master degree from [Data Mining and Information Systems (DMIS) Lab](https://dmis.korea.ac.kr/home), Korea University.\
 My research interest generally lies in data mining and machine learning, especially fairness and robustness in AI. Recently, I'm focusing on domain generalization and bias mitigation in various NLP systems.\
 For more information, my **resume** is available [here](../files/resume.pdf).
 
@@ -28,10 +28,10 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 🗒️ Publication
 ======
 - **STANCE-C^3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review)\
-Nayoung Kim, David Mosallanezhad, Lu Cheng, Michelle Mancenido, Huan Liu \	
+**Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle Mancenido, Huan Liu 	
 
 - **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** (Under Review)\
-Pouria Salehi, Yang Ba, Nayoung Kim, et al.
+Pouria Salehi, Yang Ba, **Nayoung Kim**, et al.
 
 - **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] [[code](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)]\
 Lu Cheng, **Nayoung Kim**, Huan Liu \
@@ -81,10 +81,10 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 💡 Contact
 =====
-**Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 561AC]\
+**Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 584AD]\
 **Email**: nkim48 at asu dot edu
 
 
 ------
-<font size=”3”>Last updated: 07/12/23</font>
+Last updated: 07/12/23
 
