@@ -21,7 +21,7 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 
 🎓 Education
 ======
-* Ph.D in Computer Science, Arizona State University, 2024 (expected)
+* Ph.D. in Computer Science, Arizona State University, 2024 (expected)
 * M.S. in Computer Science & Engineering, Korea University, 2019
 * B.E. in Computer Science & Engineering, Korea University, 2017
 
