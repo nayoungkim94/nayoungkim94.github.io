@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nayoung Kim"
+# title: "Nayoung Kim"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -20,14 +20,14 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 
 🎓Education
 ======
-* B.E. in Computer Science & Engineering, Korea University, 2017
-* M.S. in Computer Science & Engineering, Korea University, 2019
 * Ph.D in Computer Science, Arizona State University, 2024 (expected)
+* M.S. in Computer Science & Engineering, Korea University, 2019
+* B.E. in Computer Science & Engineering, Korea University, 2017
 
 🗒️Publication
 ======
 - **STANCE-C^3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review)\
-Nayoung Kim, David Mosallanezhad, Lu Cheng, Michelle Mancenido, Huan Liu\	
+Nayoung Kim, David Mosallanezhad, Lu Cheng, Michelle Mancenido, Huan Liu \	
 
 - **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** (Under Review)\
 Pouria Salehi, Yang Ba, Nayoung Kim, et al.
@@ -42,8 +42,8 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 🏛️Experiences
 ======
-* Fall 2022-: Research Assistant, Arizona State University
-  * Supervisor: Professor Michelle Mancenido
+* Fall 2022-: Research Assistant, Department of Homeland Security (DHS-CAOE)
+  * Supervisor: Professor Michelle V. Mancenido
 
 * Fall 2021-Summer 2022: Research Assistant, Arizona State University
   * Supervisor: Professor Huan Liu
@@ -85,5 +85,5 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 
 ------
-Last updated: 11/16/22
+Last updated: 07/12/23
 
