@@ -15,12 +15,11 @@
     font-style: normal;
 } */
 @font-face {
-  font-family: 'OpenSans';
-  src:url('../fonts/academicons.eot?v=1.8.0');
-  src:url('../fonts/academicons.eot?v=1.8.0') format('embedded-opentype'),
-      url('../fonts/OpenSerif-Book.ttf') format('truetype'),
-      url('../fonts/academicons.woff?v=1.8.0') format('woff'),
-      url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');
+  font-family: 'Academicons';
+  /* src:url('../fonts/academicons.eot?v=1.8.0'); */
+  src: url('../fonts/OpenSerif-Book.ttf') format('truetype');
+      /* url('../fonts/academicons.woff?v=1.8.0') format('woff'),
+      url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg'); */
   font-weight: normal;
   font-style: normal;
 }
