@@ -10,8 +10,8 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-Hi! I am a third year PhD student in [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University. Currently, I work as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor degree and master degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home)\
-My research interest generally lies in data mining and machine learning, especially fairness and robustness in AI and LLMs. Recently, I'm focusing on domain generalization and bias mitigation in various NLP systems.\
+Hi! I am a third year PhD student in [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University. Currently, I work as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor and master degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).\
+My research interest generally lies in data mining and machine learning, especially fairness and robustness in AI and NLP. Recently, I'm focusing on domain generalization and bias mitigation in LM based NLP tasks, such as stance detection or hate speech detection.\
 For more information, my **resume** is available [here](../files/resume.pdf).
 
 📰 News
@@ -27,11 +27,14 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 
 🗒️ Publication
 ======
+- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** (Under Review)\
+**Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou
+
 - **STANCE-C^3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review)\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu 	
 
 - **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** (Under Review)\
-Pouria Salehi, Yang Ba, **Nayoung Kim**, et al.
+Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou
 
 - **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] [[code](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)]\
 Lu Cheng, **Nayoung Kim**, Huan Liu \
@@ -43,7 +46,7 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 🏛️ Experiences
 ======
-* Fall 2022-Present: Research Assistant, Department of Homeland Security (DHS-CAOE)
+* **Fall 2022-Present**: Research Assistant, Department of Homeland Security (DHS-CAOE)
   * Supervisor: Professor Michelle V. Mancenido
 
 * Fall 2021-Summer 2022: Research Assistant, Arizona State University
