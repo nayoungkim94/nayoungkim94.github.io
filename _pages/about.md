@@ -65,16 +65,16 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 🏢 Services
 ======
-* Conference Program Committee
+* **Conference Program Committee**
   * SBP-BRiMS'23
   * ASONAM'23
 
 
-* Conference External Reviewer
+* **Conference External Reviewer**
   * AAAI'23, EMNLP'23, ECML-PKDD'22, ACM MultiMedia'22, ASONAM'22, ASONAM'21, IEEE CogMI'21
 
 
-* Volunteer
+* **Volunteer**
   * WSDM'22
   * KDD'21 
 
@@ -95,5 +95,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 10/08/23
+Last updated: 10/09/23
 
