@@ -35,7 +35,7 @@ For more information, my **resume** is available [here](../files/Nayoung_Resume.
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu 	
 
 - **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** \
-Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou
+Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou \
 Journal of Artificial Intelligence Research, 2023 
 
 - **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] [[code](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)]\
