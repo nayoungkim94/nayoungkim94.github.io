@@ -36,15 +36,15 @@ For a more detailed look at my qualifications, please review my complete resume 
 
 - **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** \
 Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou \
-Journal of Artificial Intelligence Research, 2023 
+*Journal of Artificial Intelligence Research, 2023*
 
 - **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] [[code](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)]\
 Lu Cheng, **Nayoung Kim**, Huan Liu \
-In the Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju. October 12-17, 2022.
+*In the Proceedings of the 29th International Conference on Computational Linguistics (COLING). Gyeongju. October 12-17, 2022.*
 
 - **Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data** [[pdf](https://arxiv.org/pdf/2208.03907.pdf)] [[code](https://github.com/nayoungkim94/Bridging-the-Gap)]\
 **Nayoung Kim**, Ahmadreza Mosallanezhad, Lu Cheng, Baoxin Li, Huan Liu \
-In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.
+*In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.*
 
 🏛️ Experiences
 ======
