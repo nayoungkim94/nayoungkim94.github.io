@@ -16,6 +16,7 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 
 📰 News
 ======
+- Our paper "Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)" is accepted in JAIR
 - Our paper “Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data” is accepted in SBP-BRiMS'22
 - Our paper "Debiasing Word Embeddings with Nonlinear Geometry" is accepted in COLING'22
 
@@ -30,11 +31,12 @@ For more information, my **resume** is available [here](../files/resume.pdf).
 - **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** (Under Review)\
 **Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou
 
-- **STANCE-C^3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review)\
+- **STANCE-C^3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review) [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu 	
 
-- **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** (Under Review)\
+- **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** \
 Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou
+Journal of Artificial Intelligence Research, 2023 
 
 - **Debiasing Word Embeddings with Nonlinear Geometry** [[pdf](https://arxiv.org/pdf/2208.13899.pdf)] [[code](https://github.com/GitHubLuCheng/Implementation-of-JoSEC-COLING-22)]\
 Lu Cheng, **Nayoung Kim**, Huan Liu \
@@ -93,5 +95,5 @@ In the 15th International Conference on Social Computing, Behavioral-Cultural Mo
 
 
 ------
-Last updated: 08/08/23
+Last updated: 10/08/23
 
