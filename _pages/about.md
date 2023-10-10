@@ -10,19 +10,19 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-Hi! I am a third year PhD student in [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University. Currently, I work as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor and master degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).\
-My research interest generally lies in Trustworthy AI, especially fairness and robustness in AI/ML. Recently, I'm focusing on domain generalization and bias mitigation in LM based NLP tasks, such as stance detection or hate speech detection.\
-For more information, my **resume** is available [here](../files/Nayoung_Resume.pdf).
+I am a third-year Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University, specializing in Trustworthy AI. My research focuses on fairness and robustness in AI/ML, particularly in domain generalization and bias mitigation for LM-based NLP tasks, such as stance detection or hate speech detection. I am currently a research assistant at DHS-CAOE and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor and master degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).\
+
+For a more detailed look at my qualifications, please review my complete resume [here](../files/Nayoung_Resume.pdf).
 
 📰 News
 ======
-- Our paper "Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)" is accepted in JAIR
-- Our paper “Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data” is accepted in SBP-BRiMS'22
-- Our paper "Debiasing Word Embeddings with Nonlinear Geometry" is accepted in COLING'22
+- Our paper titled "Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)" has been accepted in JAIR
+- Our paper titled “Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data” has been accepted in SBP-BRiMS'22
+- Our paper titled "Debiasing Word Embeddings with Nonlinear Geometry" has been accepted in COLING'22
 
 🎓 Education
 ======
-* Ph.D. in Computer Science, Arizona State University, 2024 (expected)
+* Ph.D. in Computer Science, Arizona State University, Expected 2024
 * M.S. in Computer Science & Engineering, Korea University, 2019
 * B.E. in Computer Science & Engineering, Korea University, 2017
 
