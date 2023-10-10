@@ -12,7 +12,7 @@ redirect_from:
 # 👩‍💻 About Me
 Hi! I am a third year PhD student in [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University. Currently, I work as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and [Data Mining and Machine Learning (DMML)](https://dmml.asu.edu/) Laboratory, advised by [Dr. Huan Liu](https://www.public.asu.edu/~huanliu/) and [Dr. Mickey Mancenido](https://www.mickeymancenido.com/). Before joining DMML, I obtained my bachelor and master degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).\
 My research interest generally lies in Trustworthy AI, especially fairness and robustness in AI/ML. Recently, I'm focusing on domain generalization and bias mitigation in LM based NLP tasks, such as stance detection or hate speech detection.\
-For more information, my **resume** is available [here](../files/resume.pdf).
+For more information, my **resume** is available [here](../files/Nayoung_Resume.pdf).
 
 📰 News
 ======
