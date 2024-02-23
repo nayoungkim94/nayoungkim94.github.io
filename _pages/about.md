@@ -10,31 +10,30 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-I am a third-year Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University, specializing in Trustworthy AI. My research focuses on fairness and robustness in AI/ML, particularly in domain generalization and bias mitigation for LM-based NLP tasks, such as stance detection or hate speech detection. I am currently a research assistant at DHS-CAOE and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML, I obtained my bachelor and master degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
+I am a fourth-year Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/), Arizona State University, specializing in Trustworthy AI. My research focuses on fairness and robustness in AI/ML, particularly in domain generalization and bias mitigation for LM-based NLP tasks. I am currently a research assistant at DHS-CAOE and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML, I obtained my bachelor and master degree from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
 For a more detailed look at my qualifications, please review my complete resume [here](../files/Nayoung_Resume.pdf).
 
 📰 News
 ======
 - Our paper titled "Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)" has been accepted in JAIR
-- Our paper titled “Bridging the Gap: Commonality and Differences between Online and Offline COVID-19 Data” has been accepted in SBP-BRiMS'22
-- Our paper titled "Debiasing Word Embeddings with Nonlinear Geometry" has been accepted in COLING'22
+
 
 🎓 Education
 ======
-* Ph.D. in Computer Science, Arizona State University, Expected 2024
+* Ph.D. in Computer Science, Arizona State University, Expected 2025
 * M.S. in Computer Science & Engineering, Korea University, 2019
 * B.E. in Computer Science & Engineering, Korea University, 2017
 
 🗒️ Publication
 ======
-- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** (Under Review)\
+- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** (Under Review) [pdf](https://arxiv.org/pdf/2401.13850.pdf)]\
 **Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou
 
-- **STANCE-C^3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review) [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
+- **STANCE-C3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review) [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu 	
 
-- **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** \
+- **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** [pdf](https://arxiv.org/pdf/2311.18040.pdf)]\
 Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou \
 *Journal of Artificial Intelligence Research, 2023*
 
@@ -95,5 +94,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 10/09/23
+Last updated: 02/22/24
 
