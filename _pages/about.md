@@ -10,13 +10,13 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-I am a fourth-year Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. My research focuses on fairness and robustness in AI/ML, particularly in domain generalization and bias mitigation for LM-based NLP tasks. Currently, I work full-time as a research assistant at DHS-CAOE and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, I obtained bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
+I am a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. My research focuses on fairness and robustness in AI/ML, particularly in domain generalization and bias mitigation for LM-based NLP tasks. Currently, I work full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, I obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-For a more detailed look at my qualifications, please review my complete resume [here](../files/Nayoung_Resume.pdf).
-
+For a more detailed look at my qualifications, please review my complete resume [here](../files/resume.pdf).
+<!-- 
 📰 News
 ======
-- Our paper titled "Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)" has been accepted in JAIR
+- Our paper titled "Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)" has been accepted in JAIR -->
 
 
 🎓 Education
@@ -29,13 +29,13 @@ For a more detailed look at my qualifications, please review my complete resume 
 ======
 
 - **STANCE-C3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review) [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
-**Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu 	
+**Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu\
 
-- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** [pdf](https://arxiv.org/pdf/2401.13850.pdf)]\
-**Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou
+- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** [[pdf](https://arxiv.org/pdf/2401.13850.pdf)]\
+**Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou\
 *AI Magazine, 2024*
 
-- **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** [pdf](https://arxiv.org/pdf/2311.18040.pdf)]\
+- **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** [[pdf](https://arxiv.org/pdf/2311.18040.pdf)]\
 Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou \
 *Journal of Artificial Intelligence Research, 2023*
 
@@ -50,7 +50,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 🏛️ Experiences
 ======
 * **Fall 2022-Present**: Research Assistant, Department of Homeland Security (DHS-CAOE)
-  * Supervisor: Professor Michelle V. Mancenido
+  * Supervisor: Professor Erin K. Chiou, Michelle V. Mancenido
 
 * Fall 2021-Summer 2022: Research Assistant, Arizona State University
   * Supervisor: Professor Huan Liu
@@ -97,5 +97,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 03/18/24
+Last updated: 04/08/24
 
