@@ -12,11 +12,7 @@ redirect_from:
 # 👩‍💻 About Me
 I am a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. My research focuses on fairness and robustness in AI/ML, particularly in domain generalization and bias mitigation for LM-based NLP tasks. Currently, I work full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, I obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-For a more detailed look at my qualifications, please review my complete resume [here](../files/resume.pdf) or [cover letter](../files/Nayoung_CoverLetter.pdf).
-<!-- 
-📰 News
-======
-- Our paper titled "Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)" has been accepted in JAIR -->
+For a more detailed look at my qualifications, please review my complete [resume](../files/resume.pdf) or [cover letter](../files/Nayoung_CoverLetter.pdf).
 
 
 🎓 Education
