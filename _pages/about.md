@@ -62,7 +62,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 🎙️ Talks
 ======
-* Machine Learning Day 2024, Arizona State University West Valley campus
+* Machine Learning Day 2024, Arizona State University West Valley Campus
 
 
 🏢 Services
