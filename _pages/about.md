@@ -12,7 +12,7 @@ redirect_from:
 # 👩‍💻 About Me
 I am a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. My research focuses on fairness and robustness in AI/ML, particularly in domain generalization and bias mitigation for LM-based NLP tasks. Currently, I work full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, I obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-For a more detailed look at my qualifications, please review my complete [resume](../files/resume.pdf) or [cover letter](../files/Nayoung_CoverLetter.pdf).
+For a more detailed look at my qualifications, please review my complete [resume](../files/resume.pdf) and example [cover letter](../files/Nayoung_CoverLetter.pdf).
 
 
 🎓 Education
@@ -27,7 +27,7 @@ For a more detailed look at my qualifications, please review my complete [resume
 - **STANCE-C3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review) [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu\
 
-- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** [[pdf](https://arxiv.org/pdf/2401.13850.pdf)]\
+- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** [[pdf](https://arxiv.org/pdf/2401.13850.pdf)]  [[code](https://github.com/nayoungkim94/PADTHAI-MM)]\
 **Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou\
 *AI Magazine, 2024*
 
@@ -59,6 +59,11 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 * Fall 2021: Teaching Assistant, Arizona State University
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
+
+🎙️ Talks
+======
+* Machine Learning Day 2024, Arizona State University West Valley campus
+
 
 🏢 Services
 ======
