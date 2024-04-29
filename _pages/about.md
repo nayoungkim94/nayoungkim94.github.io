@@ -24,11 +24,12 @@ For a more detailed look at my qualifications, please review my complete [resume
 🗒️ Publication
 ======
 
-- **STANCE-C3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** (Under Review) [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
-**Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu\
+- **STANCE-C3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation** [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
+**Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu \
+(Under Review) 
 
 - **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** [[pdf](https://arxiv.org/pdf/2401.13850.pdf)]  [[code](https://github.com/nayoungkim94/PADTHAI-MM)]\
-**Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou\
+**Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou \
 *AI Magazine, 2024*
 
 - **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** [[pdf](https://arxiv.org/pdf/2311.18040.pdf)]\
