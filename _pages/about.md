@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Profile"
 excerpt: "Profile"
 author_profile: true
 redirect_from: 
@@ -96,7 +96,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 💡 Contact
 =====
-**Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 584AD]\
+**Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 561BA]\
 **Email**: nkim48 at asu dot edu
 
 
