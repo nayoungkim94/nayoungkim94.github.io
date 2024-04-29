@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-# excerpt: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -62,7 +62,9 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 🎙️ Talks
 ======
-* Machine Learning Day 2024, Arizona State University West Valley Campus
+* Machine Learning Day 2024, Arizona State University West Valley Campus, April 26, 2024
+
+* SCAI AI Day, The School of Computing and Augmented Intelligence (SCAI), Arizona State University, Nov. 17, 2023
 
 
 🏢 Services
@@ -98,5 +100,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 04/08/24
+Last updated: 04/28/24
 
