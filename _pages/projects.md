@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Selected Projects
-
+======
 * Towards Fair Language Modeling via Parameter-Efficient Methods by Machine Feedback 2024
   * Mitigation of social biases in large language models (i.e., T5, BERT, LLaMA 2) based toxicity detection and hate speech detection
   * Train LLM to learn fairness and mitigate bias using reinforcement learning (RL) and parameter-efficient tuning methods (i.e., LoRA, P-tuning)
