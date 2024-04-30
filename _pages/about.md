@@ -65,7 +65,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 ======
 * Machine Learning Day 2024, Arizona State University West Valley Campus, April 26, 2024
 
-* SCAI AI Day, The School of Computing and Augmented Intelligence (SCAI), Arizona State University, Nov. 17, 2023
+* SCAI AI Day, Arizona State University, Nov. 17, 2023
 
 
 🏢 Services
