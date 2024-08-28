@@ -10,9 +10,9 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-I am a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. My research focuses on enhancing fairness and robustness in AI/ML algorithms, particularly in domain generalization and bias mitigation for large language model based NLP tasks (e.g., hate speech detection, stance detection).  Currently, I work full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, I obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
+Nayoung Kim is a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. Her research focuses on enhancing fairness and robustness in AI/ML algorithms, particularly in domain generalization and bias mitigation for large language model based NLP tasks (e.g., hate speech detection, stance detection).  Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-For a more detailed look at my qualifications, please review my complete [resume](../files/resume.pdf).
+For a more detailed look at the qualifications, please review the complete [resume](../files/resume.pdf).
 
 
 🎓 Education
@@ -24,7 +24,7 @@ For a more detailed look at my qualifications, please review my complete [resume
 🗒️ Publication
 ======
 
-- **Robust Stance Detection: Understanding Public Perceptions in Social Media** [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)]\
+- **Robust Stance Detection: Understanding Public Perceptions in Social Media** [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)] [[code](https://github.com/Davood-M/RobustStanceDet)]\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu \
 *The International Conference on Social Networks Analysis and Mining, 2024* 
 
@@ -85,6 +85,15 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
   * KDD'21 
 
 
+* **Mentoring**
+  * Andre Ellini 2024 - Undergrad student, Barrett, The Honors College, ASU
+
+  * Michael Clarkin 2024 - Undergrad student, Barrett, The Honors College, ASU
+
+  * Robert Bradley 2024 - Undergrad student, Barrett, The Honors College, ASU
+
+
+
 🏆 Honors & Awards
 ======
 * **Conference Scholarship**, SBP-BRiMS, 2022
@@ -101,5 +110,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 07/01/24
+Last updated: 08/29/24
 
