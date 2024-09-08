@@ -49,13 +49,13 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 * **Fall 2024-Present**: ML SDE Intern, AMD
 
 * **Fall 2022-Present**: Research Assistant, Department of Homeland Security (DHS-CAOE)
-  * Supervisor: Dr. Erin K. Chiou, Dr. Michelle V. Mancenido
+  * PI: Dr. Erin K. Chiou, Co-PI: Dr. Michelle V. Mancenido
 
 * Fall 2021-Summer 2022: Research Assistant, Arizona State University
-  * Supervisor: Dr. Huan Liu
+  * PI: Dr. Huan Liu
 
 * Spring 2021: Research Assistant, Arizona State University & Mathpresso
-  * Supervisor: Dr. Sang Pil Han
+  * PI: Dr. Sang Pil Han
 
 * Spring 2022: Teaching Assistant, Arizona State University
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phillip Miller)
