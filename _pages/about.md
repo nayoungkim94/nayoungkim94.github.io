@@ -12,7 +12,7 @@ redirect_from:
 # 👩‍💻 About Me
 Nayoung Kim is a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. Her research focuses on enhancing fairness and robustness in AI/ML algorithms, particularly in domain generalization and bias mitigation for large language model based NLP tasks (e.g., hate speech detection, stance detection).  Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-My resume is available [here](../files/NayoungKim_Resume_2024.pdf).
+Her resume is available [here](../files/NayoungKim_Resume_2024.pdf).
 
 
 🎓 Education
