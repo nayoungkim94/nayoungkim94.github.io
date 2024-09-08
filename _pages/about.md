@@ -12,7 +12,7 @@ redirect_from:
 # 👩‍💻 About Me
 Nayoung Kim is a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. Her research focuses on enhancing fairness and robustness in AI/ML algorithms, particularly in domain generalization and bias mitigation for large language model based NLP tasks (e.g., hate speech detection, stance detection).  Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-For a more detailed look at her qualifications, please review the complete [resume](../files/resume.pdf).
+For a more detailed look at her qualifications, review the complete [resume](../files/resume.pdf).
 
 
 🎓 Education
@@ -24,7 +24,7 @@ For a more detailed look at her qualifications, please review the complete [resu
 🗒️ Publication
 ======
 
-- **Robust Stance Detection: Understanding Public Perceptions in Social Media** [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)] [[code](https://github.com/Davood-M/RobustStanceDet)]\
+- **Robust Stance Detection: Understanding Public Perceptions in Social Media** [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)] [[code](https://github.com/Davood-M/RobustStanceDet)] [[slides](https://drive.google.com/file/d/1RtgulFR78yQ-OGqjv2FrbUC0vTiJgyEU/view?usp=drive_link)]\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu \
 *The International Conference on Social Networks Analysis and Mining, 2024* 
 
@@ -46,14 +46,16 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 🏛️ Experiences
 ======
+* **Fall 2024-Present**: ML SDE Intern, AMD
+
 * **Fall 2022-Present**: Research Assistant, Department of Homeland Security (DHS-CAOE)
-  * Supervisor: Professor Erin K. Chiou, Michelle V. Mancenido
+  * Supervisor: Dr. Erin K. Chiou, Dr. Michelle V. Mancenido
 
 * Fall 2021-Summer 2022: Research Assistant, Arizona State University
-  * Supervisor: Professor Huan Liu
+  * Supervisor: Dr. Huan Liu
 
 * Spring 2021: Research Assistant, Arizona State University & Mathpresso
-  * Supervisor: Professor Sang Pil Han
+  * Supervisor: Dr. Sang Pil Han
 
 * Spring 2022: Teaching Assistant, Arizona State University
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phillip Miller)
@@ -63,9 +65,9 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 🎙️ Talks
 ======
-* Machine Learning Day 2024, Arizona State University West Valley Campus, April 26, 2024
+* **Machine Learning Day 2024**, Arizona State University West Valley Campus, April 26, 2024
 
-* SCAI AI Day, Arizona State University, Nov. 17, 2023
+* **SCAI AI Day**, Arizona State University, Nov. 17, 2023
 
 
 🏢 Services
@@ -86,9 +88,9 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 * **Mentoring**
-  * Andre Ellini 2024 - Undergrad student, Barrett, The Honors College, ASU
-  * Michael Clarkin 2024 - Undergrad student, Barrett, The Honors College, ASU
-  * Robert Bradley 2024 - Undergrad student, Barrett, The Honors College, ASU
+  * Andre Ellini, Undergrad student, Barrett, The Honors College, ASU, 2024
+  * Michael Clarkin, Undergrad student, Barrett, The Honors College, ASU, 2024
+  * Robert Bradley, Undergrad student, Barrett, The Honors College, ASU, 2024
 
 
 
@@ -103,7 +105,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 💡 Contact
 =====
-**Address**: 699 S Mill Ave, Tempe, AZ, 85281 [Room 561BA]\
+**Address**: 699 S Mill Ave, Tempe, AZ, 85281 \
 **Email**: nkim48 at asu dot edu
 
 
