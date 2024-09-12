@@ -10,7 +10,7 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-Nayoung Kim is a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in Trustworthy AI. Her research focuses on enhancing fairness and robustness in AI/ML algorithms, particularly in domain generalization and bias mitigation for large language model based NLP tasks (e.g., hate speech detection, stance detection).  Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the guidance of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
+Nayoung Kim is a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in advancing trustworthiness and truthfulness in AI to develop fair, robust, and accurate NLP/LLM systems. Her recent research focuses on enhancing fairness and robustness in GenAI algorithms, particularly in the context of large language models in social media mining. Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the mentorship of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
 Her resume is available [here](../files/NayoungKim_Resume_2024.pdf).
 
@@ -44,7 +44,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 **Nayoung Kim**, Ahmadreza Mosallanezhad, Lu Cheng, Baoxin Li, Huan Liu \
 *In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.*
 
-🏛️ Experiences
+🏛️ Experience
 ======
 * **Fall 2024-Present**: ML SDE Intern, AMD
 
@@ -63,14 +63,14 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 * Fall 2021: Teaching Assistant, Arizona State University
   * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
 
-🎙️ Talks
+🎙️ Talk
 ======
 * **Machine Learning Day 2024**, Arizona State University West Valley Campus, April 26, 2024
 
 * **SCAI AI Day**, Arizona State University, Nov. 17, 2023
 
 
-🏢 Services
+🏢 Service
 ======
 * **Conference Program Committee**
   * ASONAM'24
@@ -110,5 +110,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 08/29/24
+Last updated: 09/12/24
 
