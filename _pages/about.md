@@ -10,7 +10,7 @@ redirect_from:
 
 
 # 👩‍💻 About Me
-Nayoung Kim is a fourth-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in advancing trustworthiness and truthfulness in AI to develop fair, robust, and accurate NLP/LLM systems. Her recent research focuses on enhancing fairness and robustness in GenAI algorithms, particularly in the context of large language models in social media mining. Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the mentorship of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
+Nayoung Kim is a final-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in advancing trustworthiness and truthfulness in AI to develop fair, robust, and accurate NLP/LLM systems. Her recent research focuses on enhancing fairness and robustness in GenAI algorithms, particularly in the context of large language models in social media mining. Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the mentorship of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained CSE bachelor's and master's degrees from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
 Her resume is available [here](../files/NayoungKim_Resume_2024.pdf).
 
@@ -24,13 +24,13 @@ Her resume is available [here](../files/NayoungKim_Resume_2024.pdf).
 🗒️ Publication
 ======
 
+- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** [[pdf](https://arxiv.org/pdf/2401.13850.pdf)]  [[code](https://github.com/nayoungkim94/PADTHAI-MM)]\
+Myke C. Cohen, **Nayoung Kim**, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou \
+*AI Magazine, 2025*
+
 - **Robust Stance Detection: Understanding Public Perceptions in Social Media** [[pdf](https://browse.arxiv.org/pdf/2309.15176.pdf)] [[code](https://github.com/Davood-M/RobustStanceDet)] [[slides](https://drive.google.com/file/d/1RtgulFR78yQ-OGqjv2FrbUC0vTiJgyEU/view?usp=drive_link)]\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu \
 *The International Conference on Social Networks Analysis and Mining, 2024* 
-
-- **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI systems using the MAST Methodology** [[pdf](https://arxiv.org/pdf/2401.13850.pdf)]  [[code](https://github.com/nayoungkim94/PADTHAI-MM)]\
-**Nayoung Kim**, Myke C. Cohen, Yang Ba, Anna Pan, Shawaiz Bhatti, Pouria Salehi, James Sung, Erik Blasch, Michelle V. Mancenido, Erin K. Chiou \
-*AI Magazine, 2024*
 
 - **Evaluating Trustworthiness of AI-Enabled Decision Support Systems: Validation of the Multisource AI Scorecard Table (MAST)** [[pdf](https://arxiv.org/pdf/2311.18040.pdf)]\
 Pouria Salehi, Yang Ba, **Nayoung Kim**, David Mosallanezhad, Anna Pan, Myke C. Cohen, Yixuan Wang, Jieqiong Zhao, Shawaiz Bhatti, Michelle V. Mancenido, Erin K. Chiou \
@@ -46,7 +46,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 🏛️ Experience
 ======
-* **Fall 2024-Present**: ML SDE Intern, AMD
+* **Fall 2024, Summer 2025**: AI/ML Intern, AMD
 
 * **Fall 2022-Present**: Research Assistant, Department of Homeland Security (DHS-CAOE)
   * PI: Dr. Erin K. Chiou, Co-PI: Dr. Michelle V. Mancenido
