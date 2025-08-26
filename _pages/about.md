@@ -12,12 +12,12 @@ redirect_from:
 # 👩‍💻 About Me
 Nayoung Kim is a final-year Computer Science Ph.D. student at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, specializing in advancing trustworthiness and truthfulness in AI to develop fair, robust, and accurate NLP/LLM systems. Her recent research focuses on enhancing fairness and robustness in LLMs in the context of social media mining. Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the mentorship of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained bachelor's and master's degrees from Korea University, Seoul advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-Her resume is available [here](../files/NayoungKim_Resume_2024.pdf).
+Her resume is available [here](../files/NayoungKim_Resume_2025.pdf).
 
 
 🎓 Education
 ======
-* Ph.D. in Computer Science, Arizona State University, Expected 2025
+* Ph.D. in Computer Science, Arizona State University, Expected 2026
 * M.E. in Computer Science & Engineering, Korea University, 2019
 * B.S. in Computer Science & Engineering, Korea University, 2017
 
@@ -46,7 +46,9 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 🏛️ Experience
 ======
-* **Fall 2024, Summer 2025**: AI/ML Intern, AMD
+* **Fall 2025**: Applied Scientist Intern, Amazon, Bellevue WA
+
+* **Fall 2024, Summer 2025**: AI/ML Intern, AMD, Austin TX
 
 * **Fall 2022-Present**: Research Assistant, Department of Homeland Security (DHS-CAOE)
   * PI: Dr. Erin K. Chiou, Co-PI: Dr. Michelle V. Mancenido
