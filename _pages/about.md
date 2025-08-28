@@ -21,6 +21,29 @@ Her resume is available [here](../files/NayoungKim_Resume_2025.pdf).
 * M.E. in Computer Science & Engineering, Korea University, 2019
 * B.S. in Computer Science & Engineering, Korea University, 2017
 
+
+🏛️ Experience
+======
+* **Fall 2025**: Applied Scientist Intern, Amazon, Bellevue WA
+
+* Fall 2024, Summer 2025: AI/ML Intern, AMD, Austin TX
+
+* Fall 2022-Spring 2025: Research Assistant, Department of Homeland Security (DHS-CAOE)
+  * PI: Dr. Erin K. Chiou, Co-PI: Dr. Michelle V. Mancenido
+
+* Fall 2021-Summer 2022: Research Assistant, Arizona State University
+  * PI: Dr. Huan Liu
+
+* Spring 2021: Research Assistant, Arizona State University & Mathpresso
+  * PI: Dr. Sang Pil Han
+
+* Spring 2022: Teaching Assistant, Arizona State University
+  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phillip Miller)
+
+* Fall 2021: Teaching Assistant, Arizona State University
+  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
+
+
 🗒️ Publication
 ======
 
@@ -44,26 +67,6 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 **Nayoung Kim**, Ahmadreza Mosallanezhad, Lu Cheng, Baoxin Li, Huan Liu \
 *In the 15th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). Pittsburgh. September 20-23, 2022.*
 
-🏛️ Experience
-======
-* **Fall 2025**: Applied Scientist Intern, Amazon, Bellevue WA
-
-* **Fall 2024, Summer 2025**: AI/ML Intern, AMD, Austin TX
-
-* **Fall 2022-Present**: Research Assistant, Department of Homeland Security (DHS-CAOE)
-  * PI: Dr. Erin K. Chiou, Co-PI: Dr. Michelle V. Mancenido
-
-* Fall 2021-Summer 2022: Research Assistant, Arizona State University
-  * PI: Dr. Huan Liu
-
-* Spring 2021: Research Assistant, Arizona State University & Mathpresso
-  * PI: Dr. Sang Pil Han
-
-* Spring 2022: Teaching Assistant, Arizona State University
-  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Phillip Miller)
-
-* Fall 2021: Teaching Assistant, Arizona State University
-  * CSE 205: Object-Oriented Programming and Data Structures (Instructor: Faye Tadayon-Navabi)
 
 🎙️ Talk
 ======
@@ -113,5 +116,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 03/17/25
+Last updated: 08/28/25
 
