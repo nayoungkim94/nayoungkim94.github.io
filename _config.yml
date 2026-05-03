@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Nayoung Kim"
 title_separator          : "-"
 name                     : &name "Nayoung Kim"
-description              : &description "personal description"
+description              : &description "Personal homepage of Claire (Nayoung) Kim, Computer Science Ph.D. candidate at Arizona State University researching trustworthy and fair NLP/LLM systems."
 url                      : https://nayoungkim94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nayoungkim94/nayoungkim94.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Nayoung Kim"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student @ ASU DMML"
+  bio              : "Ph.D. Candidate, ASU DMML Lab"
   location         : "Tempe, AZ"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
