@@ -10,9 +10,9 @@ redirect_from:
 
 
 # 👩‍💻 Intro
-Nayoung Claire Kim is a Computer Science Ph.D. candidate at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, studying advancing trustworthiness and truthfulness in AI to develop fair, robust, and accurate NLP/LLM systems. Her recent research focuses on enhancing reasoning fairness and robustness in LLMs in the context of social media mining. Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the mentorship of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained bachelor's and master's degrees from Korea University, Seoul advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
+Claire (Nayoung) Kim is a Computer Science Ph.D. candidate at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University, studying advancing trustworthiness and truthfulness in AI to develop fair, robust, and accurate NLP/LLM systems. Her recent research focuses on enhancing reasoning fairness and robustness in LLMs in the context of social media mining. Currently, she works full-time as a research assistant at [DHS-CAOE](https://caoe.asu.edu/) and Data Mining and Machine Learning (DMML) Laboratory, under the mentorship of [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). Before joining DMML lab, she obtained bachelor's and master's degrees from Korea University, Seoul advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-Her resume is available [here](../files/NayoungKim_Resume_2026.pdf).
+Her resume is available [here](../files/ClaireKim_resume.pdf).
 
 
 🎓 Education
@@ -83,7 +83,7 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
   * ASONAM'23
 
 
-* **Conference External Reviewer**
+* **Conference Reviewer**
   * AAAI'23, EMNLP'23, ECML-PKDD'22, ACM MultiMedia'22, ASONAM'22, ASONAM'21, IEEE CogMI'21
 
 
@@ -116,5 +116,5 @@ Lu Cheng, **Nayoung Kim**, Huan Liu \
 
 
 ------
-Last updated: 04/03/26
+Last updated: 05/03/26
 
