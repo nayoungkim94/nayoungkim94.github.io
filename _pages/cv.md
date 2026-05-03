@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version is available [here]({{ base_path }}/files/NayoungKim_Resume_2026.pdf).
+A PDF version is available [here]({{ base_path }}/files/ClaireKim_resume.pdf).
 
 Education
 ======

@@ -8,9 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nayoung Kim"
+title                    : "Claire Kim"
 title_separator          : "-"
-name                     : &name "Nayoung Kim"
+name                     : &name "Claire Kim"
 description              : &description "Personal homepage of Claire (Nayoung) Kim, Computer Science Ph.D. candidate at Arizona State University researching trustworthy and fair NLP/LLM systems."
 url                      : https://nayoungkim94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nayoung Kim"
+  name             : "Claire Kim"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Candidate, ASU DMML Lab"
   location         : "Tempe, AZ"

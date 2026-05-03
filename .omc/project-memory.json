@@ -241,15 +241,21 @@
   },
   "hotPaths": [
     {
-      "path": "_sass/_variables.scss",
-      "accessCount": 3,
-      "lastAccessed": 1777847605228,
+      "path": "_config.yml",
+      "accessCount": 5,
+      "lastAccessed": 1777848111178,
       "type": "file"
     },
     {
-      "path": "_config.yml",
+      "path": "_sass/_variables.scss",
+      "accessCount": 4,
+      "lastAccessed": 1777848039714,
+      "type": "file"
+    },
+    {
+      "path": "_pages/about.md",
       "accessCount": 3,
-      "lastAccessed": 1777847639468,
+      "lastAccessed": 1777848046332,
       "type": "file"
     },
     {
@@ -265,15 +271,21 @@
       "type": "file"
     },
     {
-      "path": "_pages/about.md",
-      "accessCount": 2,
-      "lastAccessed": 1777847382825,
-      "type": "file"
-    },
-    {
       "path": "_includes/author-profile.html",
       "accessCount": 2,
       "lastAccessed": 1777847617285,
+      "type": "file"
+    },
+    {
+      "path": "_includes/head.html",
+      "accessCount": 2,
+      "lastAccessed": 1777848029060,
+      "type": "file"
+    },
+    {
+      "path": "_pages/cv.md",
+      "accessCount": 2,
+      "lastAccessed": 1777848051905,
       "type": "file"
     },
     {
@@ -286,12 +298,6 @@
       "path": "_includes/masthead.html",
       "accessCount": 1,
       "lastAccessed": 1777846896824,
-      "type": "file"
-    },
-    {
-      "path": "_pages/cv.md",
-      "accessCount": 1,
-      "lastAccessed": 1777847293786,
       "type": "file"
     },
     {

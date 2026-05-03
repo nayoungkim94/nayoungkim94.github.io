@@ -15,7 +15,7 @@ I am **Claire (Nayoung) Kim**, a Computer Science Ph.D. candidate at the [School
 
 I am a research assistant at the [DHS Center for Accelerating Operational Efficiency (CAOE)](https://caoe.asu.edu/) and the Data Mining and Machine Learning (DMML) Lab, advised by [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). I previously earned my B.S. and M.E. at Korea University, where I was advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-Resume: [PDF]({{ base_path }}/files/NayoungKim_Resume_2026.pdf) &nbsp;·&nbsp; Reach me at *nkim48 [at] asu [dot] edu*.
+Resume: [PDF]({{ base_path }}/files/ClaireKim_resume.pdf) &nbsp;·&nbsp; Reach me at *nkim48 [at] asu [dot] edu*.
 
 
 News
