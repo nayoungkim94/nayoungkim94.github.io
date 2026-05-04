@@ -27,7 +27,8 @@ Experience
 <div class="timeline" markdown="1">
 
 * **Applied Scientist Intern**, Amazon &mdash; Bellevue, WA · Fall 2025
-* **AI/ML Intern**, AMD &mdash; Austin, TX · Fall 2024 & Summer 2025
+* **AI/ML Intern**, AMD &mdash; Austin, TX · Summer 2025
+* **SDE Intern**, AMD &mdash; Austin, TX · Fall 2024
 * **Research Assistant**, DHS-CAOE &mdash; Tempe, AZ · 2022 – 2025
 * **Research Assistant**, ONR &mdash; Tempe, AZ · 2021 – 2022
 * **Research Assistant**, Korea University DMIS Lab &mdash; Seoul, KR · 2017 – 2019
@@ -47,19 +48,6 @@ Skills
   <div class="skill-row"><div class="skill-label">Production & MLOps</div><div class="skill-list">End-to-end pipelines, model serving, Python packaging, inference optimization (throughput / latency), AWS (SageMaker, S3, Redshift, Glue, Lambda), GCP, Docker, WandB, MLflow</div></div>
   <div class="skill-row"><div class="skill-label">NLP & Models</div><div class="skill-list">Claude, GPT-4o, Llama-3, Mistral, DeepSeek, BERT · topic modeling, sentiment & stance detection, text summarization</div></div>
   <div class="skill-row"><div class="skill-label">Methods & Tooling</div><div class="skill-list">Bayesian inference &amp; uncertainty quantification · Git · Linux / shell · Jupyter</div></div>
-</div>
-
-
-News
-------
-<div class="timeline" markdown="1">
-
-* **Sep 2025** &mdash; Joined Amazon as an Applied Scientist Intern (Bellevue, WA).
-* **May 2025** &mdash; Returned to AMD as an AI/ML Intern (Austin, TX).
-* **Mar 2025** &mdash; *PADTHAI-MM* paper accepted to *AI Magazine*.
-* **Sep 2024** &mdash; *Robust Stance Detection* presented at ASONAM 2024.
-* **Aug 2024** &mdash; Joined AMD as a Software Dev Intern (Austin, TX).
-
 </div>
 
 

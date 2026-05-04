@@ -242,14 +242,26 @@
   "hotPaths": [
     {
       "path": "_pages/about.md",
-      "accessCount": 6,
-      "lastAccessed": 1777863191239,
+      "accessCount": 23,
+      "lastAccessed": 1777917382456,
       "type": "file"
     },
     {
       "path": "_config.yml",
+      "accessCount": 7,
+      "lastAccessed": 1777873676892,
+      "type": "file"
+    },
+    {
+      "path": "_pages/projects.md",
       "accessCount": 5,
-      "lastAccessed": 1777848111178,
+      "lastAccessed": 1777875732096,
+      "type": "file"
+    },
+    {
+      "path": "_sass/_custom.scss",
+      "accessCount": 5,
+      "lastAccessed": 1777917324597,
       "type": "file"
     },
     {
@@ -265,6 +277,12 @@
       "type": "file"
     },
     {
+      "path": "_includes/head.html",
+      "accessCount": 3,
+      "lastAccessed": 1777917334769,
+      "type": "file"
+    },
+    {
       "path": "_pages/publications.md",
       "accessCount": 2,
       "lastAccessed": 1777847322835,
@@ -274,12 +292,6 @@
       "path": "_includes/author-profile.html",
       "accessCount": 2,
       "lastAccessed": 1777847617285,
-      "type": "file"
-    },
-    {
-      "path": "_includes/head.html",
-      "accessCount": 2,
-      "lastAccessed": 1777848029060,
       "type": "file"
     },
     {
@@ -295,27 +307,21 @@
       "type": "file"
     },
     {
-      "path": "_pages/projects.md",
+      "path": "_includes/masthead.html",
       "accessCount": 2,
-      "lastAccessed": 1777863219520,
+      "lastAccessed": 1777917344941,
       "type": "file"
     },
     {
-      "path": "_sass/_custom.scss",
+      "path": "_includes/scripts.html",
       "accessCount": 2,
-      "lastAccessed": 1777863390026,
+      "lastAccessed": 1777917359813,
       "type": "file"
     },
     {
       "path": "_pages/talks.html",
       "accessCount": 1,
       "lastAccessed": 1777846894283,
-      "type": "file"
-    },
-    {
-      "path": "_includes/masthead.html",
-      "accessCount": 1,
-      "lastAccessed": 1777846896824,
       "type": "file"
     },
     {
@@ -334,6 +340,18 @@
       "path": "_sass/_sidebar.scss",
       "accessCount": 1,
       "lastAccessed": 1777848180381,
+      "type": "file"
+    },
+    {
+      "path": "files/ClaireKim_resume.pdf",
+      "accessCount": 1,
+      "lastAccessed": 1777873922360,
+      "type": "file"
+    },
+    {
+      "path": "images/favicon.svg",
+      "accessCount": 1,
+      "lastAccessed": 1777917303282,
       "type": "file"
     }
   ],
