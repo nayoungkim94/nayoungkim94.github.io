@@ -13,9 +13,18 @@ About
 
 I am **Claire (Nayoung) Kim**, a Computer Science Ph.D. candidate at the [School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) at Arizona State University. My research advances trustworthiness and truthfulness in AI, with the goal of building fair, robust, and accurate NLP and LLM systems. Most recently, I focus on improving reasoning fairness and robustness of LLMs in social-media settings.
 
-I am a research assistant at the [DHS Center for Accelerating Operational Efficiency (CAOE)](https://caoe.asu.edu/) and the Data Mining and Machine Learning (DMML) Lab, advised by [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). I previously earned my B.S. and M.E. at Korea University, where I was advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
+I have worked as a research assistant at the [DHS Center for Accelerating Operational Efficiency (CAOE)](https://caoe.asu.edu/) and the Data Mining and Machine Learning (DMML) Lab, advised by [Dr. Huan Liu](https://scholar.google.com/citations?hl=en&user=Dzf46C8AAAAJ) and [Dr. Mickey Mancenido](https://scholar.google.com/citations?user=f_0QDJUAAAAJ&hl=en). I previously earned my B.S. and M.E. at Korea University, where I was advised by [Dr. Jaewoo Kang](https://dmis.korea.ac.kr/home).
 
-Resume: [PDF]({{ base_path }}/files/ClaireKim_resume.pdf) &nbsp;·&nbsp; Reach me at *nkim48 [at] asu [dot] edu*.
+Resume: [PDF]({{ base_path }}/files/ClaireKim_resume.pdf)
+
+
+Research Interests
+------
+* **Trustworthy & Responsible AI** &mdash; reliability, safety, and accountability of LLMs
+* **Fairness & Bias Mitigation** &mdash; reducing social and demographic bias in language models
+* **Robustness in NLP** &mdash; stance detection and reasoning under noisy, real-world inputs
+* **Social Media Mining** &mdash; understanding public perception with LLMs
+* **Human-centered AI Evaluation** &mdash; human studies, MAST, and trust assessment
 
 
 News
