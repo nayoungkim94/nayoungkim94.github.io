@@ -241,6 +241,12 @@
   },
   "hotPaths": [
     {
+      "path": "_pages/about.md",
+      "accessCount": 6,
+      "lastAccessed": 1777863191239,
+      "type": "file"
+    },
+    {
       "path": "_config.yml",
       "accessCount": 5,
       "lastAccessed": 1777848111178,
@@ -253,15 +259,9 @@
       "type": "file"
     },
     {
-      "path": "_pages/about.md",
-      "accessCount": 3,
-      "lastAccessed": 1777848046332,
-      "type": "file"
-    },
-    {
       "path": "_data/navigation.yml",
-      "accessCount": 2,
-      "lastAccessed": 1777847257972,
+      "accessCount": 3,
+      "lastAccessed": 1777863226373,
       "type": "file"
     },
     {
@@ -289,6 +289,24 @@
       "type": "file"
     },
     {
+      "path": "assets/css/main.scss",
+      "accessCount": 2,
+      "lastAccessed": 1777848258769,
+      "type": "file"
+    },
+    {
+      "path": "_pages/projects.md",
+      "accessCount": 2,
+      "lastAccessed": 1777863219520,
+      "type": "file"
+    },
+    {
+      "path": "_sass/_custom.scss",
+      "accessCount": 2,
+      "lastAccessed": 1777863390026,
+      "type": "file"
+    },
+    {
       "path": "_pages/talks.html",
       "accessCount": 1,
       "lastAccessed": 1777846894283,
@@ -310,6 +328,12 @@
       "path": "Gemfile",
       "accessCount": 1,
       "lastAccessed": 1777847706873,
+      "type": "file"
+    },
+    {
+      "path": "_sass/_sidebar.scss",
+      "accessCount": 1,
+      "lastAccessed": 1777848180381,
       "type": "file"
     }
   ],
