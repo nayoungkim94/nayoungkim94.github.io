@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version is available [here]({{ base_path }}/files/ClaireKim_resume.pdf).
+A resume version is available [here]({{ base_path }}/files/ClaireKim_resume.pdf).
 
 Education
 ------
@@ -19,13 +19,14 @@ Education
 
 Experience
 ------
-* **Fall 2025** &mdash; Applied Scientist Intern, Amazon, Bellevue WA
-* **Fall 2024 / Summer 2025** &mdash; AI/ML Intern, AMD, Austin TX
-* **Fall 2022 – Spring 2025** &mdash; Research Assistant, Department of Homeland Security (DHS-CAOE)
+* **Sep 2025 - Dec 2025** &mdash; Applied Scientist Intern, Amazon, Bellevue WA
+* **May 2025 - Aug 2025** &mdash; AI/ML Intern, AMD, Austin TX
+* **Aug 2024 - Dec 2024** &mdash; Software Development Intern, AMD, Austin TX
+* **Aug 2022 – May 2025** &mdash; Research Assistant, Department of Homeland Security (DHS-CAOE)
   * PI: Dr. Erin K. Chiou; Co-PI: Dr. Michelle V. Mancenido
-* **Fall 2021 – Summer 2022** &mdash; Research Assistant, Arizona State University
+* **Aug 2021 – Aug 2022** &mdash; Research Assistant, Arizona State University
   * PI: Dr. Huan Liu
-* **Spring 2021** &mdash; Research Assistant, Arizona State University & Mathpresso
+* **Jan 2021 - May 2021** &mdash; Research Assistant, Arizona State University & Mathpresso
   * PI: Dr. Sang Pil Han
 
 Teaching
@@ -44,8 +45,11 @@ Service
 **Program Committee**
 * ASONAM 2024, SBP-BRiMS 2023, ASONAM 2023
 
-**Reviewer**
-* AAAI 2023, EMNLP 2023, ECML-PKDD 2022, ACM Multimedia 2022, ASONAM 2022, ASONAM 2021, IEEE CogMI 2021
+**Conference Reviewer**
+* AMLC 2025 (Gen AI Evaluation Workshop), NeurIPS 2025 (Reliable ML Workshop), AAAI 2023, EMNLP 2023, ECML-PKDD 2022, ACM Multimedia 2022, ASONAM 2022, ASONAM 2021, IEEE CogMI 2021
+
+**Journal Reviewer**
+* Scientific Reports (2026)
 
 **Volunteer**
 * WSDM 2022, KDD 2021
