@@ -16,15 +16,17 @@ Ongoing
 * Introduced the **Reasoning Bias Rate (RBR)** metric, the first measure quantifying unsupported demographic assumptions in reasoning traces (a complementary signal beyond answer-level bias).
 * Hybrid mitigation: process supervision with counterfactual augmentation, fairness-aware RL rewards, and inference-time guided decoding with fairness verifiers (built on OpenR).
 * Reduced bias scores by **>20%** on the BBQ benchmark while preserving accuracy within 1% across GPT-3.5-Turbo and LLaMA-2-13B baselines.
-* *Tech: Python · PyTorch · OpenR · Inference-time scaling · Fairness-aware RL · BBQ benchmark*
+* *Tech: Python · PyTorch · OpenR · Inference-time scaling · Fairness-aware RL ·  benchmark*
 
-**MASTOPIA: Transparency in LLM-Assisted Intelligence Analysis** &mdash; *Under review (Human Factors)*
+2025
+------
+**MASTOPIA: Transparency in LLM-Assisted Intelligence Analysis** 
 * Built **MASTOPIA**, a multi-agent RAG system (supervisor → retriever → generator agents) powered by GPT-4 / GPT-3.5 that operationalizes Multisource AI Scorecard Table (MAST) tradecraft standards through prompt engineering.
 * Designed and ran a 2³ factorial human-subject study (n = 304) varying LLM performance, MAST transparency, and task severity, with behavioral logging of verification activity.
 * Found that high-transparency outputs **did not improve performance** and in marginal conditions decreased it &mdash; evidence of overreliance from information overload &mdash; motivating adaptive / on-demand transparency design.
 * *Tech: Python · GPT-4 / GPT-3.5 · RAG · multi-agent LLM · vector DB · prompt engineering · Flask · zero-inflated Poisson regression · ridit analysis · Prolific / Qualtrics human-subject design*
 
-**Bayesian Learning for Uncertainty-Aware Hallucination Mitigation** &mdash; *Ongoing*
+**Bayesian Learning for Uncertainty-Aware Hallucination Mitigation** 
 * Designing an uncertainty-aware LLM system using Bayesian inference to detect and mitigate hallucinations in production settings.
 * Developing evaluation workflows that demonstrate hallucination detection at scale.
 * *Tech: Python · PyTorch · Bayesian methods · LLM evaluation*
