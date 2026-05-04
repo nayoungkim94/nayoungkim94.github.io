@@ -304,3 +304,205 @@ em { color: $dark-gray; }
   background: rgba($navy, 0.18);
   color: $darker-gray;
 }
+
+/* ---------- Scroll fade-in ---------- */
+.fade-in-up {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.55s ease-out, transform 0.55s ease-out;
+  will-change: opacity, transform;
+
+  &.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---------- Timeline (News / Experience) ---------- */
+.timeline {
+  margin: 0.6em 0 1em;
+
+  ul {
+    list-style: none !important;
+    padding-left: 1.6em !important;
+    margin-left: 0.4em;
+    border-left: 2px solid rgba($navy, 0.18);
+  }
+
+  li {
+    position: relative;
+    padding-left: 0.6em;
+    margin-bottom: 0.6em !important;
+
+    &:before {
+      content: "";
+      position: absolute;
+      left: -2.05em;
+      top: 0.65em;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: $navy;
+      box-shadow: 0 0 0 3px #fff, 0 0 0 4px rgba($navy, 0.2);
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    &:hover:before {
+      transform: scale(1.2);
+    }
+  }
+}
+
+/* ---------- Theme toggle button ---------- */
+.theme-toggle {
+  background: transparent;
+  border: 1px solid $lighter-gray;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 15px;
+  line-height: 1;
+  color: $darker-gray;
+  cursor: pointer;
+  margin-left: 0.6em;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+  vertical-align: middle;
+
+  &:hover {
+    background: rgba($navy, 0.06);
+    color: $navy;
+    border-color: rgba($navy, 0.4);
+  }
+}
+
+/* ---------- Dark mode ---------- */
+[data-theme="dark"] {
+  body {
+    background: #0f172a;
+    color: #e2e8f0;
+  }
+
+  .masthead {
+    background: #0a1228;
+    border-bottom-color: #1e293b;
+  }
+
+  .greedy-nav {
+    background: transparent;
+    a { color: #e2e8f0; }
+    a:hover { color: #93c5fd; }
+    .masthead__menu-item--lg a { color: #f1f5f9; }
+  }
+
+  .page__content {
+    color: #e2e8f0;
+
+    h1, h3 { color: #f1f5f9; border-bottom-color: #1e293b; }
+    h2 { color: #93c5fd; border-bottom-color: #1e293b; }
+    p, li { color: #cbd5e1; }
+    strong { color: #f1f5f9; }
+    em { color: #cbd5e1; }
+
+    a:not(.btn) {
+      color: #93c5fd;
+      border-bottom-color: rgba(147, 197, 253, 0.3);
+
+      &:hover {
+        color: #bfdbfe;
+        border-bottom-color: #93c5fd;
+      }
+    }
+
+    code {
+      background: #1e293b;
+      border-color: #334155;
+      color: #93c5fd;
+    }
+
+    hr { border-top-color: #1e293b; }
+  }
+
+  .page__title {
+    color: #f1f5f9;
+    border-bottom-color: #93c5fd;
+  }
+
+  .sidebar .author__name { color: #f1f5f9; }
+  .author__bio { color: #cbd5e1; }
+  .author__avatar img {
+    border-color: #1e293b !important;
+    background: #0a1228;
+  }
+  .author__urls a { color: #cbd5e1;
+    &:hover { color: #93c5fd; }
+    i { color: #93c5fd; }
+  }
+
+  .open-to {
+    background: rgba(147, 197, 253, 0.08);
+    border-left-color: #93c5fd;
+    color: #e2e8f0;
+  }
+
+  .skills {
+    border-top-color: #1e293b;
+    .skill-row { border-bottom-color: #1e293b; }
+    .skill-label {
+      color: #93c5fd;
+      border-right-color: rgba(147, 197, 253, 0.25);
+    }
+    .skill-list { color: #cbd5e1; }
+
+    @media (max-width: 600px) {
+      .skill-label { border-bottom-color: rgba(147, 197, 253, 0.25); }
+    }
+  }
+
+  .timeline {
+    ul { border-left-color: rgba(147, 197, 253, 0.25); }
+    li:before {
+      background: #93c5fd;
+      box-shadow: 0 0 0 3px #0f172a, 0 0 0 4px rgba(147, 197, 253, 0.25);
+    }
+  }
+
+  .btn--primary {
+    background: #93c5fd;
+    border-color: #93c5fd;
+    color: #0f172a !important;
+    border-bottom-color: #93c5fd !important;
+
+    &:hover {
+      background: #bfdbfe;
+      border-color: #bfdbfe;
+      color: #0f172a !important;
+    }
+  }
+
+  .page__footer {
+    background: #0a1228;
+    border-top-color: #1e293b;
+    color: #cbd5e1;
+    a { color: #93c5fd; }
+  }
+
+  .theme-toggle {
+    color: #e2e8f0;
+    border-color: #334155;
+
+    &:hover {
+      background: #1e293b;
+      color: #93c5fd;
+      border-color: #93c5fd;
+    }
+  }
+
+  ::selection {
+    background: rgba(147, 197, 253, 0.25);
+    color: #f1f5f9;
+  }
+}

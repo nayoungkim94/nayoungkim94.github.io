@@ -24,11 +24,15 @@ I have worked as a research assistant at the [DHS Center for Accelerating Operat
 
 Experience
 ------
+<div class="timeline" markdown="1">
+
 * **Applied Scientist Intern**, Amazon &mdash; Bellevue, WA · Fall 2025
 * **AI/ML Intern**, AMD &mdash; Austin, TX · Fall 2024 & Summer 2025
 * **Research Assistant**, DHS-CAOE &mdash; Tempe, AZ · 2022 – 2025
-* **Research Assistant**, ASU DMML Lab &mdash; Tempe, AZ · 2021 – 2022
+* **Research Assistant**, ONR &mdash; Tempe, AZ · 2021 – 2022
 * **Research Assistant**, Korea University DMIS Lab &mdash; Seoul, KR · 2017 – 2019
+
+</div>
 
 
 Skills
@@ -48,11 +52,15 @@ Skills
 
 News
 ------
+<div class="timeline" markdown="1">
+
 * **Sep 2025** &mdash; Joined Amazon as an Applied Scientist Intern (Bellevue, WA).
 * **May 2025** &mdash; Returned to AMD as an AI/ML Intern (Austin, TX).
 * **Mar 2025** &mdash; *PADTHAI-MM* paper accepted to *AI Magazine*.
 * **Sep 2024** &mdash; *Robust Stance Detection* presented at ASONAM 2024.
-* **Aug 2024** &mdash; Joined AMD as an AI/ML Intern (Austin, TX).
+* **Aug 2024** &mdash; Joined AMD as a Software Dev Intern (Austin, TX).
+
+</div>
 
 
 Selected Projects
@@ -62,7 +70,7 @@ Selected Projects
 A reasoning-aware framework that mitigates bias inside intermediate LLM reasoning steps, not just final answers. Introduced the **Reasoning Bias Rate** metric and combined process supervision, fairness-aware RL, and inference-time guided decoding to substantially reduce bias while preserving baseline accuracy.\
 *Tech: Python · PyTorch · OpenR · inference-time scaling · fairness-aware RL*
 
-**Fair Language Modeling via Parameter-Efficient Methods** &mdash; *2024*\
+**Fair Language Modeling via Parameter-Efficient Methods** &mdash; *2025*\
 Reduced social biases in BERT and LLaMA for toxicity and hate-speech detection using reinforcement learning combined with parameter-efficient fine-tuning.\
 *Tech: Python · PyTorch · Hugging Face · LoRA · RL*
 
