@@ -19,7 +19,7 @@ Resume: [PDF]({{ base_path }}/files/ClaireKim_resume.pdf) &nbsp;·&nbsp; Reach m
 
 
 News
-======
+------
 * **Fall 2025** &mdash; Joined Amazon as an Applied Scientist Intern (Bellevue, WA).
 * **2025** &mdash; *PADTHAI-MM* paper accepted to *AI Magazine*.
 * **Summer 2025** &mdash; Returning to AMD as an AI/ML Intern (Austin, TX).
@@ -28,7 +28,7 @@ News
 
 
 Selected Publications
-======
+------
 
 **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI Systems Using the MAST Methodology**\
 Myke C. Cohen, **Nayoung Kim**, Yang Ba, et al.\

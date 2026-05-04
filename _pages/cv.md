@@ -12,13 +12,13 @@ redirect_from:
 A PDF version is available [here]({{ base_path }}/files/ClaireKim_resume.pdf).
 
 Education
-======
+------
 * **Ph.D. in Computer Science**, Arizona State University, expected 2026
 * **M.E. in Computer Science & Engineering**, Korea University, 2019
 * **B.S. in Computer Science & Engineering**, Korea University, 2017
 
 Experience
-======
+------
 * **Fall 2025** &mdash; Applied Scientist Intern, Amazon, Bellevue WA
 * **Fall 2024 / Summer 2025** &mdash; AI/ML Intern, AMD, Austin TX
 * **Fall 2022 – Spring 2025** &mdash; Research Assistant, Department of Homeland Security (DHS-CAOE)
@@ -29,18 +29,18 @@ Experience
   * PI: Dr. Sang Pil Han
 
 Teaching
-======
+------
 * **Spring 2022** &mdash; Teaching Assistant, CSE 205: Object-Oriented Programming and Data Structures, Arizona State University (Instructor: Phillip Miller)
 * **Fall 2021** &mdash; Teaching Assistant, CSE 205: Object-Oriented Programming and Data Structures, Arizona State University (Instructor: Faye Tadayon-Navabi)
 
 Mentoring
-======
+------
 * Andre Ellini, Undergraduate, Barrett, The Honors College, ASU, 2024
 * Michael Clarkin, Undergraduate, Barrett, The Honors College, ASU, 2024
 * Robert Bradley, Undergraduate, Barrett, The Honors College, ASU, 2024
 
 Service
-======
+------
 **Program Committee**
 * ASONAM 2024, SBP-BRiMS 2023, ASONAM 2023
 
@@ -51,7 +51,7 @@ Service
 * WSDM 2022, KDD 2021
 
 Honors & Awards
-======
+------
 * **SCAI Travel Award**, Arizona State University, 2022 & 2024
 * **Conference Scholarship**, SBP-BRiMS, 2022
 * **Fulton Scholarship**, Ira A. Fulton Schools of Engineering, Arizona State University, 2021

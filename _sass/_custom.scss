@@ -1,0 +1,221 @@
+/* ==========================================================================
+   Custom design polish
+   - Loaded last so it overrides theme defaults
+   ========================================================================== */
+
+/* ---------- Body type ---------- */
+body {
+  font-family: $sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: $darker-gray;
+  font-feature-settings: "kern", "liga", "calt";
+}
+
+strong { font-weight: 600; color: $darker-gray; }
+em { color: $dark-gray; }
+
+/* ---------- Page title (frontmatter `title:`) ---------- */
+.page__title {
+  font-family: $serif;
+  font-size: 2.1em;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin: 0 0 0.5em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid $navy;
+  display: inline-block;
+  color: $darker-gray;
+}
+
+/* ---------- Body content typography ---------- */
+.page__content {
+  h1 {
+    font-family: $serif;
+    font-size: 1.85em;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: $darker-gray;
+    margin: 1.8em 0 0.55em;
+    padding-bottom: 0.35em;
+    border-bottom: 1px solid $lighter-gray;
+
+    &:first-child { margin-top: 0.4em; }
+  }
+
+  h2 {
+    font-family: $serif;
+    font-size: 1.4em;
+    font-weight: 600;
+    letter-spacing: -0.005em;
+    color: $darker-gray;
+    margin: 1.8em 0 0.55em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $lighter-gray;
+  }
+
+  h3 {
+    font-family: $sans-serif;
+    font-size: 1.12em;
+    font-weight: 600;
+    color: $dark-gray;
+    margin: 1.5em 0 0.4em;
+  }
+
+  p, li {
+    font-size: 0.98em;
+    line-height: 1.72;
+    color: $darker-gray;
+  }
+
+  ul li { margin-bottom: 0.4em; }
+  ul li > ul { margin-top: 0.3em; }
+
+  /* Body links: subtle underline that fills on hover */
+  a:not(.btn) {
+    color: $navy;
+    text-decoration: none;
+    border-bottom: 1px solid rgba($navy, 0.25);
+    transition: border-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      color: $navy-dark;
+      border-bottom-color: $navy;
+    }
+  }
+
+  /* Inline code */
+  code {
+    font-family: $monospace;
+    font-size: 0.88em;
+    padding: 0.12em 0.4em;
+    background: $code-background-color;
+    border: 1px solid $lighter-gray;
+    border-radius: 4px;
+    color: $navy-dark;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid $lighter-gray;
+    margin: 2.4em 0;
+  }
+}
+
+/* ---------- Masthead / top nav ---------- */
+.masthead {
+  border-bottom: 1px solid $lighter-gray;
+  background: #fff;
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    font-family: $sans-serif;
+    font-weight: 500;
+    font-size: 0.95em;
+    letter-spacing: 0.005em;
+    color: $darker-gray;
+    transition: color 0.15s ease;
+
+    &:hover { color: $navy; }
+  }
+
+  .masthead__menu-item--lg a {
+    font-family: $serif;
+    font-weight: 600;
+    font-size: 1.18em;
+    letter-spacing: -0.01em;
+    color: $darker-gray;
+  }
+}
+
+/* ---------- Sidebar / author profile ---------- */
+.sidebar .author__name {
+  font-family: $serif;
+  font-weight: 600;
+  font-size: 1.15em;
+  letter-spacing: -0.01em;
+  color: $darker-gray;
+}
+
+.author__bio {
+  font-family: $sans-serif;
+  color: $dark-gray;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.author__avatar img {
+  border-radius: 50% !important;
+  border: 1px solid $lighter-gray !important;
+  padding: 4px !important;
+  background: #fff;
+  box-shadow: 0 4px 14px rgba($navy, 0.08);
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 6px 20px rgba($navy, 0.14);
+  }
+}
+
+.author__urls {
+  a {
+    color: $dark-gray;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: $navy;
+      text-decoration: none;
+    }
+
+    i {
+      color: $navy;
+      width: 1.25em;
+      text-align: center;
+    }
+  }
+
+  li {
+    font-size: 0.92em;
+    line-height: 1.7;
+  }
+}
+
+/* ---------- Footer ---------- */
+.page__footer {
+  background: #fafbfc;
+  border-top: 1px solid $lighter-gray;
+  color: $dark-gray;
+  font-family: $sans-serif;
+  font-size: 0.85em;
+
+  a { color: $navy; }
+}
+
+/* ---------- Buttons (in case any are used) ---------- */
+.btn {
+  font-family: $sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border-radius: 4px;
+  transition: background 0.15s ease, color 0.15s ease;
+
+  &.btn--inverse {
+    background: transparent;
+    border: 1px solid $navy;
+    color: $navy;
+
+    &:hover {
+      background: $navy;
+      color: #fff;
+    }
+  }
+}
+
+/* ---------- Selection color ---------- */
+::selection {
+  background: rgba($navy, 0.18);
+  color: $darker-gray;
+}
