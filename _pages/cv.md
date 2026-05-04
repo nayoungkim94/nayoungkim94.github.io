@@ -19,14 +19,14 @@ Education
 
 Experience
 ------
-* **Sep 2025 - Dec 2025** &mdash; Applied Scientist Intern, Amazon, Bellevue WA
-* **May 2025 - Aug 2025** &mdash; AI/ML Intern, AMD, Austin TX
-* **Aug 2024 - Dec 2024** &mdash; Software Development Intern, AMD, Austin TX
+* **Sep 2025 – Dec 2025** &mdash; Applied Scientist Intern, Amazon, Bellevue WA
+* **May 2025 – Aug 2025** &mdash; AI/ML Intern, AMD, Austin TX
+* **Aug 2024 – Dec 2024** &mdash; Software Development Intern, AMD, Austin TX
 * **Aug 2022 – May 2025** &mdash; Research Assistant, Department of Homeland Security (DHS-CAOE)
   * PI: Dr. Erin K. Chiou; Co-PI: Dr. Michelle V. Mancenido
 * **Aug 2021 – Aug 2022** &mdash; Research Assistant, Arizona State University
   * PI: Dr. Huan Liu
-* **Jan 2021 - May 2021** &mdash; Research Assistant, Arizona State University & Mathpresso
+* **Jan 2021 – May 2021** &mdash; Research Assistant, Arizona State University & Mathpresso
   * PI: Dr. Sang Pil Han
 
 Teaching
