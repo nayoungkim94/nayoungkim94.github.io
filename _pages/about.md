@@ -48,27 +48,27 @@ Skills
 
 News
 ------
-* **Fall 2025** &mdash; Joined Amazon as an Applied Scientist Intern (Bellevue, WA).
-* **2025** &mdash; *PADTHAI-MM* paper accepted to *AI Magazine*.
-* **Summer 2025** &mdash; Returning to AMD as an AI/ML Intern (Austin, TX).
-* **Fall 2024** &mdash; Joined AMD as an AI/ML Intern (Austin, TX).
-* **2024** &mdash; *Robust Stance Detection* paper accepted at ASONAM 2024.
+* **Sep 2025** &mdash; Joined Amazon as an Applied Scientist Intern (Bellevue, WA).
+* **May 2025** &mdash; Returned to AMD as an AI/ML Intern (Austin, TX).
+* **Mar 2025** &mdash; *PADTHAI-MM* paper accepted to *AI Magazine*.
+* **Sep 2024** &mdash; *Robust Stance Detection* presented at ASONAM 2024.
+* **Aug 2024** &mdash; Joined AMD as an AI/ML Intern (Austin, TX).
 
 
 Selected Projects
 ------
 
 **Reasoning-Level Fairness in LLMs** &mdash; *Under submission*\
-Built a reasoning-aware framework for bias mitigation in LLMs, modeling reasoning as Q → {R} → A. Introduced the **Reasoning Bias Rate (RBR)** metric and a hybrid pipeline of process supervision, fairness-aware RL, and inference-time guided decoding. Reduced BBQ bias scores by **>20%** while preserving accuracy within 1% on GPT-3.5 and LLaMA-2.\
-*Tech: Python · PyTorch · OpenR · Inference-time scaling · Fairness-aware RL*
+A reasoning-aware framework that mitigates bias inside intermediate LLM reasoning steps, not just final answers. Introduced the **Reasoning Bias Rate** metric and combined process supervision, fairness-aware RL, and inference-time guided decoding to substantially reduce bias while preserving baseline accuracy.\
+*Tech: Python · PyTorch · OpenR · inference-time scaling · fairness-aware RL*
 
-**Towards Fair Language Modeling via Parameter-Efficient Methods** &mdash; *2024*\
-Mitigated social biases in T5, BERT, and LLaMA-2 for toxicity and hate-speech detection using RL combined with parameter-efficient tuning (LoRA, P-tuning).\
+**Fair Language Modeling via Parameter-Efficient Methods** &mdash; *2024*\
+Reduced social biases in BERT and LLaMA for toxicity and hate-speech detection using reinforcement learning combined with parameter-efficient fine-tuning.\
 *Tech: Python · PyTorch · Hugging Face · LoRA · RL*
 
-**MEGAWATT: MAST for Evaluating Generative AI** &mdash; *2024*\
-Applied the MAST trust-assessment framework to evaluate GPT-4 in intelligence-analysis tasks; ran human-subject studies and improved response quality with prompt engineering and RAG.\
-*Tech: Python · GPT-4 API · RAG · Human-subject study design*
+**MASTOPIA: Transparency in LLM-Assisted Intelligence Analysis** &mdash; *Under review (Human Factors)*\
+A multi-agent RAG system operationalizing MAST tradecraft standards, evaluated through a large human-subject study. Showed that adding transparency features did **not** improve performance and can induce overreliance &mdash; motivating adaptive, on-demand transparency.\
+*Tech: Python · GPT-4 · RAG · multi-agent LLM · vector DB · human-subject study*
 
 See the [full project list]({{ base_path }}/projects/).
 
