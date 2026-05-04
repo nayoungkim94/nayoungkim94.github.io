@@ -34,11 +34,14 @@ Experience
 Skills
 ------
 <div class="skills" markdown="0">
-  <div class="skill-row"><div class="skill-label">Languages</div><div class="skill-list">Python, C/C++, Java, SQL, JavaScript</div></div>
-  <div class="skill-row"><div class="skill-label">ML / DL</div><div class="skill-list">PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn</div></div>
-  <div class="skill-row"><div class="skill-label">LLM / NLP</div><div class="skill-list">Fine-tuning, LoRA / P-tuning, RLHF, RAG, prompt engineering, evaluation</div></div>
-  <div class="skill-row"><div class="skill-label">Cloud / MLOps</div><div class="skill-list">AWS, Google Cloud, Docker, Git, Linux</div></div>
-  <div class="skill-row"><div class="skill-label">Data</div><div class="skill-list">Pandas, NumPy, Spark, social-media data, human-subject studies</div></div>
+  <div class="skill-row"><div class="skill-label">Languages</div><div class="skill-list">Python, SQL, JavaScript</div></div>
+  <div class="skill-row"><div class="skill-label">ML & DL</div><div class="skill-list">PyTorch, TensorFlow, Hugging Face (Transformers, PEFT, Accelerate, Datasets)</div></div>
+  <div class="skill-row"><div class="skill-label">LLM Systems</div><div class="skill-list">RAG, LLM-as-a-judge, synthetic QA generation, multi-agent LLM, hallucination mitigation, fine-tuning (LoRA / P-tuning), RLHF, prompt engineering</div></div>
+  <div class="skill-row"><div class="skill-label">Frameworks</div><div class="skill-list">LangChain, LlamaIndex, Node.js, Flask, Streamlit</div></div>
+  <div class="skill-row"><div class="skill-label">AI-Assisted Dev</div><div class="skill-list">Claude Code, Cursor, GitHub Copilot, agentic coding workflows</div></div>
+  <div class="skill-row"><div class="skill-label">Production & MLOps</div><div class="skill-list">End-to-end pipelines, model serving, inference optimization (throughput / latency), AWS, GCP, Docker, WandB, MLflow</div></div>
+  <div class="skill-row"><div class="skill-label">NLP & Models</div><div class="skill-list">BERT, Llama-2, GPT-4 · topic modeling, sentiment & stance detection, text summarization</div></div>
+  <div class="skill-row"><div class="skill-label">Methods & Tooling</div><div class="skill-list">Bayesian inference &amp; uncertainty quantification · Git · Linux / shell · Jupyter</div></div>
 </div>
 
 
