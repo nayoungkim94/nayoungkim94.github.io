@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Ongoing
+------
+**Reasoning-Level Fairness in LLMs** &mdash; *Under submission*
+* Built a reasoning-aware framework for bias identification and mitigation in LLMs, modeling reasoning as Q → {R} → A to analyze how stereotypes emerge during intermediate steps.
+* Introduced the **Reasoning Bias Rate (RBR)** metric, the first measure quantifying unsupported demographic assumptions in reasoning traces (a complementary signal beyond answer-level bias).
+* Hybrid mitigation: process supervision with counterfactual augmentation, fairness-aware RL rewards, and inference-time guided decoding with fairness verifiers (built on OpenR).
+* Reduced bias scores by **>20%** on the BBQ benchmark while preserving accuracy within 1% across GPT-3.5-Turbo and LLaMA-2-13B baselines.
+* *Tech: Python · PyTorch · OpenR · Inference-time scaling · Fairness-aware RL · BBQ benchmark*
+
+**Bayesian Learning for Uncertainty-Aware Hallucination Mitigation** &mdash; *Ongoing*
+* Designing an uncertainty-aware LLM system using Bayesian inference to detect and mitigate hallucinations in production settings.
+* Developing evaluation workflows that demonstrate hallucination detection at scale.
+* *Tech: Python · PyTorch · Bayesian methods · LLM evaluation*
+
 2024
 ------
 **Towards Fair Language Modeling via Parameter-Efficient Methods by Machine Feedback**
