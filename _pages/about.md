@@ -45,7 +45,7 @@ Skills
   <div class="skill-row"><div class="skill-label">LLM Systems</div><div class="skill-list">RAG, vector DBs (Weaviate, Chroma, Faiss), LLM-as-a-judge, synthetic QA generation, multi-agent LLM, hallucination mitigation, prompt engineering, inference-time scaling</div></div>
   <div class="skill-row"><div class="skill-label">Frameworks</div><div class="skill-list">LangChain, LlamaIndex, Node.js, Flask, Streamlit</div></div>
   <div class="skill-row"><div class="skill-label">AI-Assisted Dev</div><div class="skill-list">Claude Code, Cursor, GitHub Copilot, agentic coding workflows, MCP (Model Context Protocol)</div></div>
-  <div class="skill-row"><div class="skill-label">Production & MLOps</div><div class="skill-list">End-to-end pipelines, model serving, Python packaging, inference optimization (throughput / latency), AWS (SageMaker, S3, Redshift, Glue, Lambda), GCP, Docker, WandB, MLflow</div></div>
+  <div class="skill-row"><div class="skill-label">Production & MLOps</div><div class="skill-list">End-to-end CI/CD pipelines, model serving, Python packaging, inference optimization (throughput / latency), AWS (SageMaker, S3, Redshift, Glue, Lambda, CodeBuild), GCP, Docker, WandB, MLflow</div></div>
   <div class="skill-row"><div class="skill-label">NLP & Models</div><div class="skill-list">Claude, GPT-4o, Llama-3, Mistral, DeepSeek, BERT · topic modeling, sentiment & stance detection, text summarization</div></div>
   <div class="skill-row"><div class="skill-label">Methods & Tooling</div><div class="skill-list">Bayesian inference &amp; uncertainty quantification · Git · Linux / shell · Jupyter</div></div>
 </div>
