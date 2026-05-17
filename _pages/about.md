@@ -75,7 +75,7 @@ Selected Publications
 **PADTHAI-MM: A Principled Approach for the Design of Trustworthy, Human-Centered AI Systems Using the MAST Methodology**\
 Myke C. Cohen, **Nayoung Kim**, Yang Ba, et al.\
 *AI Magazine, 2025.*\
-[[pdf](https://arxiv.org/pdf/2401.13850.pdf)] [[code](https://github.com/nayoungkim94/PADTHAI-MM)]
+[[pdf](https://arxiv.org/pdf/2401.13850.pdf)] [[code](https://github.com/clairekim59/PADTHAI-MM)]
 
 **Robust Stance Detection: Understanding Public Perceptions in Social Media**\
 **Nayoung Kim**, David Mosallanezhad, Lu Cheng, Michelle V. Mancenido, Huan Liu\

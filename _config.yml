@@ -12,9 +12,9 @@ title                    : "Claire Kim"
 title_separator          : "-"
 name                     : &name "Claire Kim"
 description              : &description "Personal homepage of Claire (Nayoung) Kim, Computer Science Ph.D. candidate at Arizona State University researching trustworthy and fair NLP/LLM systems."
-url                      : https://nayoungkim94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://clairekim59.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nayoungkim94/nayoungkim94.github.io"
+repository               : "clairekim59/clairekim59.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nayoungkim94"
+  github           : "clairekim59"
   google_plus      :
   keybase          :
   instagram        :
